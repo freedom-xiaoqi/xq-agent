@@ -1,0 +1,31 @@
+llm:
+  #api_key: "helloworld"
+  #base_url: "http://192.168.0.172:10061/v1"
+  #model: "qwen3:30b"
+  api_key: "fc35961e-685e-4f6b-a6d2-acc0f32f1cda"
+  base_url: "https://ark.cn-beijing.volces.com/api/coding/v3"
+  model: "glm-4.7"
+
+channels:
+  wecom:
+    enabled: false
+    corp_id: ""
+    agent_id: 0
+    secret: ""
+  dingtalk:
+    enabled: false
+    app_key: ""
+    app_secret: ""
+  telegram:
+    enabled: false
+    token: ""
+  lark:
+    enabled: false
+    app_id: ""
+    app_secret: ""
+
+tools:
+  browser_enabled: true
+  shell_enabled: true
+  file_enabled: true
+  mcp_enabled: true
