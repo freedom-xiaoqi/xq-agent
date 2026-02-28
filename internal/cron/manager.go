@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/myuser/go-agent/internal/channels"
+	"xq-agent/internal/channels"
 	"github.com/robfig/cron/v3"
 )
 
