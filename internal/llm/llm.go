@@ -3,7 +3,7 @@ package llm
 import (
 	"context"
 
-	"github.com/myuser/go-agent/internal/config"
+	"xq-agent/internal/config"
 	"github.com/sashabaranov/go-openai"
 )
 
