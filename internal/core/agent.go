@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/myuser/go-agent/internal/channels"
-	"github.com/myuser/go-agent/internal/config"
-	"github.com/myuser/go-agent/internal/llm"
-	"github.com/myuser/go-agent/internal/tools"
+	"xq-agent/internal/channels"
+	"xq-agent/internal/config"
+	"xq-agent/internal/llm"
+	"xq-agent/internal/tools"
 	"github.com/sashabaranov/go-openai"
 )
 
