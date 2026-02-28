@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/myuser/go-agent/internal/config"
+	"xq-agent/internal/config"
 )
 
 type TelegramChannel struct {
