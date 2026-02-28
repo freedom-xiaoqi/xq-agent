@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/myuser/go-agent/internal/config"
+	"xq-agent/internal/config"
 )
 
 type WeComChannel struct {
